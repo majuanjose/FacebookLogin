@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="facebook_app_id">1699760963687626</string>
+
+    <string name="login_exitoso">¡Inicio de sesión Exitoso!</string>
+    <string name="cancel_login">¡Inicio de sesión cancelado!</string>
+    <string name="error_login">¡Inicio de sesión NO exitoso!</string>
+    <string name="logout">Cerrar Sessión</string>
+
+    <string name="id_banner">ca-app-pub-1139003790427360~7855134334</string>
+</resources>
